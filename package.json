@@ -1,0 +1,30 @@
+{
+    "author": "tomb0y",
+    "dependencies": {
+        "pebblejs": "1.0.0"
+    },
+    "keywords": [],
+    "name": "pebblejs-playground",
+    "pebble": {
+        "capabilities": [],
+        "displayName": "pebblejs-playground",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite"
+        ],
+        "uuid": "1eda60db-55ce-4f4e-92cc-f5b1a69587f5",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "0.0.0"
+}
